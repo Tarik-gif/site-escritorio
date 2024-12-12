@@ -62,7 +62,7 @@
 		bottom: 0;
 		position: absolute;
 		opacity: 0.40;
-		background: url(/img/demos/creative-agency-2/backgrounds/background-2.jpg) no-repeat top center / cover;
+		background: url(../img/demos/creative-agency-2/backgrounds/background-2.jpg) no-repeat top center / cover;
 		background-color: var(--primary--300);
 }
 

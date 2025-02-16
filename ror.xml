@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://brilhantes.net/</title>
-  <link>https://brilhantes.net/</link>
+  <title>ROR Sitemap for https://correiaevieiradecarvalho.com.br/</title>
+  <link>https://correiaevieiradecarvalho.com.br/</link>
 
 <item>
-     <link>https://brilhantes.net/</link>
-     <title>Brilhantes</title>
-     <description>Brilhantes - Reforço e Acompanhamento Escolar</description>
+     <link>https://correiaevieiradecarvalho.com.br/</link>
+     <title>CVCA</title>
+     <description>Porto - Multipurpose Website Template</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://correiaevieiradecarvalho.com.br/demo-creative-agency-2-about-us</link>
+     <title>CVCA - Sobre nós</title>
+     <description>Porto - Multipurpose Website Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://correiaevieiradecarvalho.com.br/demo-creative-agency-2-services</link>
+     <title>CVCA - Serviços</title>
+     <description>Porto - Multipurpose Website Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://correiaevieiradecarvalho.com.br/demo-creative-agency-2-contact-us</link>
+     <title>CVCA - Contate-nos</title>
+     <description>Porto - Multipurpose Website Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://correiaevieiradecarvalho.com.br/index&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;.html</link>
+     <title>CVCA</title>
+     <description>Porto - Multipurpose Website Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 </channel>
